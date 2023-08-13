@@ -1,0 +1,10 @@
+{
+  // Setup Copilot extension
+  "name": "Copilot extension for Codespaces' VS Code"
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot"
+    }
+  }
+}
